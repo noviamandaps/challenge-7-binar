@@ -1,0 +1,73 @@
+.containerFluid {
+  height: 560px;
+  padding-top: 100px;
+}
+.h1 {
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #000000;
+}
+p {
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: #000000;
+}
+.bi-chevron-left::before,
+.bi-chevron-right::before {
+  vertical-align: inherit;
+  padding: 8px;
+  border-radius: 32px;
+}
+.owlCarousel .owl-nav button.owl-next,
+.owlCarousel .owl-nav button.owl-prev {
+  border-radius: 32px;
+  border: solid 1px #c4c4c4;
+  margin-right: 24px;
+}
+.owlCarousel .owl-nav button.owl-next:hover,
+.owlCarousel .owl-nav button.owl-prev:hover {
+  background-color: #5cb85f;
+  margin-right: 26px;
+  border: none;
+}
+.img {
+  width: 80px;
+  height: 80px;
+  margin: 95px 46px;
+}
+.testimoni {
+  margin: 69px 32px 69px 0px;
+}
+.checked {
+  color: #f9cc00;
+}
+.quote {
+  width: 415px;
+  text-align: left;
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+  margin: 8px 0px;
+}
+.name {
+  width: 415px;
+  text-align: left;
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+  margin: 8px 0px;
+}
